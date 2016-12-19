@@ -2,6 +2,10 @@
 	margin-top: 80px;
 }
 
+#pagecontent {
+	margin-top: 50px;
+}
+
 * {
 	font-family: "Helvetica Neue";
 	color: rgb(51,0,51);
