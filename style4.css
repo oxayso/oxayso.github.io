@@ -1,0 +1,26 @@
+body {
+
+	background-color: #black;
+}
+
+h1 {
+	color: black;
+}
+
+h3 {
+	color: black;
+}
+
+.boldClass {
+	font-weight: bold;
+}
+
+#bigID {
+	font-size: 28px;
+}
+
+.center{
+   width:200px;
+   margin:0 auto;
+   text-align:left;
+}

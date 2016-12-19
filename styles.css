@@ -1,0 +1,20 @@
+body {
+
+	background-color: pink;
+}
+
+h1 {
+	color: white;
+}
+
+h3 {
+	color: white;
+}
+
+.boldClass {
+	font-weight: bold;
+}
+
+#bigID {
+	font-size: 28px;
+}

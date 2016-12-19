@@ -1,0 +1,22 @@
+#pagecontent {
+	margin-top: 80px;
+}
+
+* {
+	font-family: "Helvetica Neue";
+	color: rgb(51,0,51);
+}
+
+
+}
+#outcast {
+	background-image: url("http://codecondo.com/wp-content/uploads/2014/04/5-Coding-Challenges-to-Help-You-Train-Your-Brain.jpg?478983");
+	background-size: cover;
+	background-position: center;
+}
+
+#outcast h1 {	
+	color:#FFFFFF;
+	text-shadow: 4px 4px #000000;
+}
+
