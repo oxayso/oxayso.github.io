@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.relative {
+    position: relative;
+    width: 1200px;
+    height: 60px;
+    border: 3px solid #F4F6F6;
+}
+} 
+</style>
+</head>
+<body>
+
+<footer>
+<div class="relative">
+  <div class="absolute"><center><h3> ©Olivia Xaysombath</center></h3></div>
+</div>
+</footer>
+</body>
+</html>
