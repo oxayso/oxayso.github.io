@@ -24,3 +24,37 @@
 	text-shadow: 4px 4px #000000;
 }
 
+div.container {
+	width: 100%;
+}
+
+header, footer {
+	padding: 1em;
+	color: white;
+	background-color: black;
+	clear: left;
+	text-align: center;
+	vertical-align: bottom;
+	margin-top: 140px;
+}
+
+footer {
+	height: 40px;
+}
+
+#mural {
+	background-image: url("http://drewbrophy.com/site/wp-content/uploads/2015/03/ALifeWellLived_-drew-brophy-mural-art-painting-keenfest-sacred-geometry.jpg") ;
+	background-size: cover;
+	background-position: center;
+}
+
+#mural h3 {
+	color:#FFFFFF;
+	text-shadow: 4px 4px #000000;
+}
+
+#mural h3 {
+	font-family: "Helvetica Neue";
+	color: rgb(255,255,255);
+}
+
