@@ -6,6 +6,18 @@
 	margin-top: 50px;
 }
 
+body {
+	background-image: url("https://www.muralswallpaper.com//app/uploads/soft-natural-marble-textures-plain.jpg");
+	background-repeat: no-repeat;
+	background-color: white
+	background-size: cover
+}
+
+nav {
+	background-image: url("https://www.muralswallpaper.com//app/uploads/soft-natural-marble-textures-plain.jpg");
+	background-color: white
+}
+
 * {
 	font-family: "Helvetica Neue";
 	color: rgb(51,0,51);
@@ -23,8 +35,8 @@ div.container {
 
 header, footer {
 	padding: 1em;
-	color: white;
-	background-color: black;
+	color: black;
+	background-color: white;
 	clear: left;
 	text-align: center;
 	vertical-align: bottom;
@@ -39,6 +51,7 @@ footer {
 	background-image: url("http://drewbrophy.com/site/wp-content/uploads/2015/03/ALifeWellLived_-drew-brophy-mural-art-painting-keenfest-sacred-geometry.jpg") ;
 	background-size: cover;
 	background-position: center;
+	box-shadow: 4px 4px #000000;
 }
 
 #mural h3 {
