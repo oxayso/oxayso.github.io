@@ -17,6 +17,11 @@ nav {
 	background-image: url("https://www.muralswallpaper.com//app/uploads/soft-natural-marble-textures-plain.jpg");
 	background-color: white
 }
+ 
+ .img-responsive{
+ 	border-radius: 25px 50px;
+ 	box-shadow:5px 6px 7px;
+ }
 
 * {
 	font-family: "Korinna BT";
